@@ -35,7 +35,7 @@ https://streamable.com/4ire7j
 
 ### dependencies / optional :
 
-* t-notify(needed) - for some notifications - https://github.com/TasoOneAsia/t-notify
+* t-notify -  https://github.com/TasoOneAsia/t-notify
 
 
 
