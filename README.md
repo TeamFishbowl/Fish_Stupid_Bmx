@@ -33,7 +33,7 @@ https://streamable.com/jo50ok
 https://streamable.com/4ire7j
 
 
-### dependencies / optional :
+### dependencies :
 
 * t-notify -  https://github.com/TasoOneAsia/t-notify
 
