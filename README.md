@@ -2,6 +2,8 @@
 
 a stupid bmx script that rewards people who know how to bunny hop / parkour with bmx bikes
 
+you can add more locations to get rewards in the config.
+
 Time trials script orig : https://forum.cfx.re/t/release-timetrials-standalone-races-and-leaderboard-v1-00/479740/1
 
 ----------------------------
